@@ -21,3 +21,4 @@
 
 * [xSnapi/deathjump](https://github.com/xSnapi/deathjump/tree/main)
 * [xSnapi/pathfinding](https://github.com/xSnapi/cpp_pathfinding_using_sfml)
+* [Mohajel/snake-game](https://github.com/mohajel/snake-game)
