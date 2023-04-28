@@ -17,6 +17,10 @@
 * [Some random archive](http://blogoscoped.com/archive/2006-08-08-n51.html)
 * [aseprite](https://www.aseprite.org/)
 
+## Fonts
+* [Dafont](https://dafont.com)
+* [FontSquirrel](https://www.fontsquirrel.com/)
+
 ## SFML sample projects
 
 * [xSnapi/deathjump](https://github.com/xSnapi/deathjump/tree/main)
